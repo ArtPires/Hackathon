@@ -10,7 +10,7 @@ BASE_CHAIN = [
     "generate_report",
 ]
 
-ROI_KEYWORDS = {"stopped", "restricted", "zone", "area", "curb", "curbside", "loading", "parking"}
+ROI_KEYWORDS = {"restricted", "zone", "curb", "curbside", "loading", "parking"}
 RENDER_KEYWORDS = {"visual", "overlay", "annotate", "annotated", "draw", "show", "display"}
 
 
